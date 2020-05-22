@@ -82,7 +82,7 @@ body, p, h1, h2, h3, h4, h5, h6, input, select, textarea {
 }
 
 .list-inline-item .fa {
-    color: #890bdd;
+    color: #dbebf4;
     margin-right: 7px;
 }
 
@@ -106,7 +106,7 @@ body, p, h1, h2, h3, h4, h5, h6, input, select, textarea {
 }
 
 .btn-primary {
-    background-color: #890bdd;
+    background-color: #dbebf4;
     color: #fff;
 }
 
@@ -117,7 +117,7 @@ body, p, h1, h2, h3, h4, h5, h6, input, select, textarea {
 .feature-icon {
     font-size: 24px;
     font-size: 1.5rem;
-    background: #890bdd;
+    background: #dbebf4;
     color: #fff;
     padding: 15px;
     border-radius: 100%;
@@ -168,7 +168,7 @@ body, p, h1, h2, h3, h4, h5, h6, input, select, textarea {
 ----------------------------------------------------------------------------- */
 .menu-nav a,
 .menu-nav a:visited {
-    color: #890bdd;
+    color: #dbebf4;
 }
 
 .menu-nav a:hover {
@@ -183,8 +183,8 @@ body, p, h1, h2, h3, h4, h5, h6, input, select, textarea {
 
 .site-title {
     font-size: 4rem;
-    color: #890bdd;
-    font-family: "Yellowtail", cursive, sans-serif;
+    color: #dbebf4;
+    font-family: ""Inknut Antiqua", cursive, sans-serif;
 }
 
 #about .lead {
@@ -221,8 +221,8 @@ body, p, h1, h2, h3, h4, h5, h6, input, select, textarea {
     font-size: 3rem;
     margin: 0;
     line-height: 1;
-    font-family: "Yellowtail", cursive, sans-serif;
-    color: #890bdd;
+    font-family: ""Inknut Antiqua", cursive, sans-serif;
+    color: #dbebf4;
 }
 
 @media (max-width: 768px) {
@@ -283,8 +283,8 @@ body, p, h1, h2, h3, h4, h5, h6, input, select, textarea {
 }
 
 #contact .section-title {
-    font-family: "Yellowtail", cursive, sans-serf;
-    color: #890bdd;
+    font-family: ""Inknut Antiqua", cursive, sans-serf;
+    color: #dbebf4;
 }
 
 .form-title {
