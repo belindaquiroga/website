@@ -184,7 +184,7 @@ body, p, h1, h2, h3, h4, h5, h6, input, select, textarea {
 .site-title {
     font-size: 4rem;
     color: #dbebf4;
-    font-family: ""Inknut Antiqua", cursive, sans-serif;
+    font-family: "Inknut Antiqua", cursive, sans-serif;
 }
 
 #about .lead {
@@ -221,7 +221,7 @@ body, p, h1, h2, h3, h4, h5, h6, input, select, textarea {
     font-size: 3rem;
     margin: 0;
     line-height: 1;
-    font-family: ""Inknut Antiqua", cursive, sans-serif;
+    font-family: "Inknut Antiqua", cursive, sans-serif;
     color: #dbebf4;
 }
 
@@ -283,7 +283,7 @@ body, p, h1, h2, h3, h4, h5, h6, input, select, textarea {
 }
 
 #contact .section-title {
-    font-family: ""Inknut Antiqua", cursive, sans-serf;
+    font-family: "Inknut Antiqua", cursive, sans-serf;
     color: #dbebf4;
 }
 
